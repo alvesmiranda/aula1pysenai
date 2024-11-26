@@ -1,0 +1,5 @@
+print("ola mundo")
+print("meu nome e pedro")
+print("gosto de animais")
+print("tenho 19 anos")
+print("arvores fazem bem")
